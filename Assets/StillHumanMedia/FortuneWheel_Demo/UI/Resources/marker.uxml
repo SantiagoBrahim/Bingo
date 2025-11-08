@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="background-image: url(&quot;project://database/Assets/ForAssetStore_Free/img/triangleMarker.png?fileID=2800000&amp;guid=5ce1ff56bfe262a4f8f1411060e02be4&amp;type=3#triangleMarker&quot;); -unity-background-scale-mode: scale-to-fit; width: 64px; height: 64px; -unity-background-image-tint-color: rgb(202, 87, 63);" />
+</ui:UXML>

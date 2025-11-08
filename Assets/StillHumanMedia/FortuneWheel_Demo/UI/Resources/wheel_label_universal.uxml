@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/wheel_stylesheet.uss?fileID=7433441132597879392&amp;guid=73fa25a8073da2144a32e6c3ecfde093&amp;type=3#wheel_stylesheet" />
+    <ui:VisualElement class="sectorInfo__container" style="flex-direction: column; align-items: center;">
+        <ui:Label text="Segment Label" name="wheelInfo_label" style="font-size: 18px; -unity-font-style: bold; -unity-font-definition: url(&quot;project://database/Assets/ForAssetStore_Free/fonts/Macondo-Regular.ttf?fileID=12800000&amp;guid=9cc4f297a730df842a532945a401049a&amp;type=3#Macondo-Regular&quot;); color: rgb(0, 0, 0);" />
+        <ui:VisualElement name="wheelInfo_icon" style="background-image: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=4584671053970592468&amp;guid=d9e94c1f68cd959439e301af96fc7cad&amp;type=3#console.infoicon@2x&quot;); -unity-background-scale-mode: scale-to-fit; width: 50px; height: 50px; flex-shrink: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
